@@ -3,7 +3,7 @@
 
 An object-oriented desktop application built to create, manage, and execute study deck tracks. This system couples a clean, user-friendly client interface with a resilient relational database tier to persist historical study performance and data parameters across active user sessions.
 
-🔗 **[Live Interactive System Previewer](https://gangadharp97-ui.github.io/flashcard-project/)**
+🔗 **[Live Interactive System Previewer](https://gangadharp97-ui.github.io/flashcard-terminal-studio-project/)**
 
 ---
 
